@@ -24,11 +24,5 @@ p {color: #333333;list .title {
 font-size: 1em;
 margin: 1px 35px;
 }
-@media screen and (max-width: 480px) {
-  .list .title {
-    font-size: 3em;
-  }
-}
-
 
 </style>
