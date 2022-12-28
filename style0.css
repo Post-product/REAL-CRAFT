@@ -6,7 +6,6 @@ border: solid 105px;
 
 border-color: #ffffff;
 font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
-@media screen and ( max-width:479px )
 {
 	p
 	{
@@ -23,11 +22,6 @@ p {color: #333333;list .title {
 }
 font-size: 1em;
 margin: 1px 35px;
-}
-@media screen and (max-width: 480px) {
-  .list .title {
-    font-size: 3em;
-  }
 }
 
 
