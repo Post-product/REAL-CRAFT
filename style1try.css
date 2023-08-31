@@ -1,0 +1,25 @@
+body {
+background-color: #ffffff;
+border: solid 130px;
+border-color: #ffffff;
+font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+/* ウィンドウ幅が0〜479pxの場合に適用するCSS */
+{
+	p
+	{
+		color: #ffffff;	/* 赤色 */
+	}
+}
+
+}
+
+}
+
+p {
+color: #333333;
+font-size: 2em;
+margin: 1px 35px;
+}
+
+
+</style>
