@@ -1,10 +1,9 @@
 body {
 background-color: #ffffff;
-border: solid 105px;
+border: solid 130px;
 border-color: #ffffff;
 font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
 /* ウィンドウ幅が0〜479pxの場合に適用するCSS */
-@media screen and ( max-width:479px )
 {
 	p
 	{
